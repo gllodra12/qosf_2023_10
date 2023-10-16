@@ -23,3 +23,5 @@ sol = find_the_primes_numbers(18,[2,3,5,7,11,13])
 print(sol)
 > 5,13
 ```
+
+You can run the notebook in [Google Colaboratory](https://colab.research.google.com/) or use the button in the first line of Task_1.ipynb.
